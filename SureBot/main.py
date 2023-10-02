@@ -4,7 +4,6 @@ import pickle
 import time
 from langchain import OpenAI
 import openai
-from secret_key import OPENAI_API_KEY
 from langchain.chains import RetrievalQAWithSourcesChain
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.document_loaders import UnstructuredURLLoader
