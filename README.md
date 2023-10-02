@@ -1,6 +1,9 @@
 # SureBot
 This is a tool to get Perfect Answers with Zero errors! Just copy paste the article URLs which you trust and ask questions to SureBot! The answers will be based on your trusted sources so they will be 100% correct!
 
+Functional Deployed Application on Streamlit Cloud
+https://mainpy-ckn2aqdwyvr3n4pvep6koz.streamlit.app/
+
 To use this project
 1. Clone this repo.
 2. Install required dependencies.
